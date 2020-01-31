@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Senior at NYU from Brooklyn, NY. Enjoy tech, film and standup. She/Her/Hers.
 
 ### More Information
 
