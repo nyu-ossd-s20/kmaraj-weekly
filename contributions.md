@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 3   | [Github Issue](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/2)    | Student Blog   |   I created an issue regarding a broken link on a student's blog    |
 |     |     |     |      |
 |     |     |     |      |
