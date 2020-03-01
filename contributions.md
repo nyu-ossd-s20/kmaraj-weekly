@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 25   | [Github Issue](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/2)    | Student Blog   |   I created an issue regarding a broken link on a student's blog    |
-|     |     |     |      |
+| March 1    | [Link to Changeset](https://www.openstreetmap.org/changeset/81649733)    | OpenStreetMap    |  I added a restaurant (Lenz's Delicatessen) to Open Street Map    |
 |     |     |     |      |
