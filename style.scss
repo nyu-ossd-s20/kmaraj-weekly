@@ -18,6 +18,8 @@ html {
 }
 
 
+	
+
 //added background using this source 
 //https://codepen.io/P1N2O/pen/pyBNzX
 body {
@@ -52,6 +54,14 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+a {
+color: white;	
+}
+
+h1 a{
+	color: white;	
+}
+
 
 .screen-reader-text {
   border: 0;
