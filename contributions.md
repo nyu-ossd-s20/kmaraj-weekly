@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | March 26 |[Course Website Pull Request](https://github.com/joannakl/ossd_s20/pull/21) | Course Website | I first created an [issue](https://github.com/joannakl/ossd_s20/issues/20) on the course website github repo. Then I addressed the issue by adding the appropriate links to my own local repository, then creating a pull request. |
 | April 3 |[Github Issue](https://github.com/joannakl/ossd_s20/issues/23) | Course Website | I created an issue regarding the deadline to withdraw from the class. It has been extended to May 12th. |
 | April 3 |[Github Pull Request](https://github.com/joannakl/ossd_s20/pull/24) | Course Website | I created a pull request fixing the deadline to withdraw from the class|
+| May 2 |[Link to Changeset](https://www.openstreetmap.org/changeset/84531786) | OpenStreeMap | I added a deli in my neighborhood to Open Street Map|
